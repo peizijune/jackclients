@@ -1,6 +1,5 @@
 /*This is very simple biquad filter client that processes a single
- * channel of audio with a selected filter parameter set.
- */
+ * channel of audio with a selected filter parameter set. */
 #include <jack/jack.h>
 #include "biquad_df1.h"
 
