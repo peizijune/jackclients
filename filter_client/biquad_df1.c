@@ -11,7 +11,7 @@ http://www.smartelectronix.com/musicdsp/text/filters005.txt
 #include "biquad_df1.h"
 
 /* computes a df1 biquad implementation on a sample */
-smp_type 
+smp_type
 df1(smp_type sample, biquad * b)
 {
     smp_type result;
@@ -129,3 +129,4 @@ smp_type srate, smp_type bandwidth)
 }
 /* crc==3062280887, version==4, Sat Jul  7 00:03:23 2001 */
 
+//test - learning
